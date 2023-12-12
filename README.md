@@ -31,4 +31,4 @@ dependencies {
 <application
         android:name=".WishListApp" >
 
-</application>
+
