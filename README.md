@@ -5,6 +5,12 @@
 
 </application>
 
+
+
+plugins {
+    id("kotlin-kapt")
+    }
+    
 dependencies {
 
     val nav_version = "2.7.5"
