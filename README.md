@@ -1,9 +1,6 @@
 # WishListApp_DB_Kotlin
 
-<application
-        android:name=".WishListApp" >
 
-</application>
 
 
 
@@ -29,3 +26,9 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling-preview:$compose_version")
 
     }
+
+
+<application
+        android:name=".WishListApp" >
+
+</application>
